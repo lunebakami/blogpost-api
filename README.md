@@ -1,2 +1,1 @@
-# futtodos-api
-# futtodos-api
+# blogpost-api
